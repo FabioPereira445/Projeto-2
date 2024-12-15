@@ -1,5 +1,5 @@
 # Análise Exploratória de Dados: Covid-19
- <img src="images/project1_2.jpeg" alt="Uma bela paisagem" width="900" height="500" title="Clique para ampliar">
+ <img src="image/project1_2.jpeg.png" alt="Uma bela paisagem" width="1000" height="500" title="Clique para ampliar">
 
  <h2>1. Introdução</h2>
 
