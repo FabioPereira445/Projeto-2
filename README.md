@@ -71,17 +71,17 @@
         <li>year: ano de referência.</li>
     </ul>
 <h2>3.0 Ferramentas utilizadas</h2>
-<img src="images/img_python.svg" alt="Uma bela paisagem" width="75" height="25" title="img_python">
-<img src="images/img_VScode.svg" alt="Uma bela paisagem" width="75" height="25" title="img_VScode">
-<img src="images/img_jupyter.svg" alt="Uma bela paisagem" width="75" height="25" title="img_jupyter">
+<img src="image/img_python.svg" alt="Uma bela paisagem" width="75" height="25" title="img_python">
+<img src="image/img_jupyter.svg" alt="Uma bela paisagem" width="75" height="25" title="img_VScode">
+<img src="image/img_VScode.svg" alt="Uma bela paisagem" width="75" height="25" title="img_jupyter">
 <h3>3.1 Bibliotecas Python utilizadas</h3>
 <h4> Manipulação de dados</h4>
-<img src="images/img_pandas.svg" alt="Uma bela paisagem" width="75" height="25" title="img_pandas">
-<img src="images/img_numpy.svg" alt="Uma bela paisagem" width="75" height="25" title="img_numpy">
-<img src="images/img_geopandas.png" alt="Uma bela paisagem" width="75" height="25" title="img_numpy">
+<img src="image/img_numpy.svg" alt="Uma bela paisagem" width="75" height="25" title="img_pandas">
+<img src="image/img_pandas.svg" alt="Uma bela paisagem" width="75" height="25" title="img_numpy">
+<img src="image/img-google-data-studio.svg" alt="Uma bela paisagem" width="75" height="25" title="img_numpy">
 <h4> EDA</h4>
-<img src="images/img_matplotlib.svg" alt="Uma bela paisagem" width="75" height="25" title="img_matplotlib">
-<img src="images/img_seaborn.svg" alt="Uma bela paisagem" width="75" height="25" title="Clique para ampliar">
+<img src="image/img_matplotlib.svg" alt="Uma bela paisagem" width="75" height="25" title="img_matplotlib">
+<img src="image/img_seaborn.svg" alt="Uma bela paisagem" width="75" height="25" title="Clique para ampliar">
 
 <h2>4.0 Exploratory Data Analysis</h2>
 
@@ -173,16 +173,6 @@
 Analista de Dados<br>
 Vitória-ES<br>
 E-mail: <a href="mailto:fabioalves.js15@gmail.com">fabioalves.js15@gmail.com</a></strong></p>
- <img src="figures/plot1.png" alt="Uma bela paisagem" width="1000" height="500" title="figura 1">
- <P><b>Insight</b></p> <P>O gráfico fornece uma visão geral . <P>
-  <img src="figures/plot2.png" alt="Uma bela paisagem" width="1000" height="500" title="figura 2">
-   <P><b>Insight</b></p>Desigualdade na Demanda: .<P>
-   <img src="figures/plot3.png" alt="Uma bela paisagem" width="1000" height="500" title="figura 3">
-    <P><b>Insight</b></p>Dominância de Brasília e Taguatinga:<P>
-    <img src="figures/plot4.png" alt="Uma bela paisagem" width="1000" height="500" title="figura 4">
-   <P><b>Insight</b></p>A concentração das entregas.<P>
-     <img src="figures/plot5.png" alt="Uma bela paisagem" width="1000" height="1650" title="figura 5">
-     <P><b>Insight</b></p>Concentração em Poucas Áreas:<P>
 
 </body>
 </html>
