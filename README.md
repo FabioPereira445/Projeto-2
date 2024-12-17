@@ -80,8 +80,7 @@
 <img src="image/img_pandas.svg" alt="Uma bela paisagem" width="75" height="25" title="img_numpy">
 <img src="image/img-google-data-studio.svg" alt="Uma bela paisagem" width="75" height="25" title="img_numpy">
 <h4> EDA</h4>
-<img src="image/img_matplotlib.svg" alt="Uma bela paisagem" width="75" height="25" title="img_matplotlib">
-<img src="image/img_seaborn.svg" alt="Uma bela paisagem" width="75" height="25" title="Clique para ampliar">
+<p>O dashboard de dados contém os seguintes gráficos para a análise exploratória de dados (exploratory data analysis ou EDA) interativa:</p> <ul> <li>Distribuição do número de casos e mortes ao longo do tempo;</li> <li>Distribuição da média móvel (7 dias) do número de casos e mortes ao longo do tempo;</li> <li>Distribuição geográfica dos casos por estado por dia.</li> </ul>
 
 <h2>4.0 Exploratory Data Analysis</h2>
 
