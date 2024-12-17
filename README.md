@@ -75,11 +75,11 @@
 <img src="image/img_jupyter.svg" alt="Uma bela paisagem" width="75" height="25" title="img_VScode">
 <img src="image/img_VScode.svg" alt="Uma bela paisagem" width="75" height="25" title="img_jupyter">
 <h3>3.1 Bibliotecas Python utilizadas</h3>
-<h4> Manipulação de dados</h4>
+<h3> Manipulação de dados</h3>
 <img src="image/img_numpy.svg" alt="Uma bela paisagem" width="75" height="25" title="img_pandas">
 <img src="image/img_pandas.svg" alt="Uma bela paisagem" width="75" height="25" title="img_numpy">
-<img src="image/img-google-data-studio.svg" alt="Uma bela paisagem" width="75" height="25" title="img_numpy">
-<h4> EDA</h4>
+<h3> EDA</h3>
+<img src="image/img-google-data-studio.svg" alt="Uma bela paisagem" width="75" height="25" title="img_looker-data">
 <p>O dashboard de dados contém os seguintes gráficos para a análise exploratória de dados (exploratory data analysis ou EDA) interativa:</p> <ul> <li>Distribuição do número de casos e mortes ao longo do tempo;</li> <li>Distribuição da média móvel (7 dias) do número de casos e mortes ao longo do tempo;</li> <li>Distribuição geográfica dos casos por estado por dia.</li> </ul>
 
 <h2>4.0 Exploratory Data Analysis</h2>
